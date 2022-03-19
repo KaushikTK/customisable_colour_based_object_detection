@@ -1,6 +1,6 @@
 # Customisable Colour Based Object Detection
  
- It uses colour range to detect objects present in an image with the colour specified. The colour can be updated as per requirement in the colour_recognition.py file.
+ It uses colour range to detect objects present in an image with the colour specified. <b>The colour can be updated as per requirement in the colour_recognition.py file.</b>
 
 # To run:
 
@@ -9,8 +9,8 @@
 
 # Input image
 
-![](pictures/apple1.PNG)
+<img src="/pictures/apple1.PNG" width="300px">  <img src="/pictures/apple2.jpg" width="450px">
 
 # Output image
 
-![](pictures/detected_apple1.png)
+<img src="/pictures/detected_picture1.png" width="300px">  <img src="/pictures/detected_picture2.png" width="450px">
